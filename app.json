@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Recipe Helper",
+    "name": "Julia",
     "slug": "maries-roc-capstone",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -23,7 +23,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "maries-roc-julia"
+    },
+    "android": {
+      "package": "maries-roc-julia"
     }
   }
 }
